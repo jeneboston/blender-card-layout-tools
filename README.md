@@ -22,6 +22,10 @@ Built and used in a real card game production pipeline. Scripts are designed to 
 
 ---
 
+## Preview
+
+![Render Example](examples/example_render.png)
+
 ## Requirements
 
 - Blender 3.x or 4.x
