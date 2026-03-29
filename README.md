@@ -26,6 +26,8 @@ Built and used in a real card game production pipeline. Scripts are designed to 
 
 ![Render Example](examples/example_render.png)
 
+---
+
 ## Requirements
 
 - Blender 3.x or 4.x
@@ -113,3 +115,9 @@ These scripts were developed as part of the production workflow for [Play That S
 ## License
 
 MIT — free to use and adapt for your own projects.
+
+---
+
+## Author
+
+[Yevhenii Pinchuk](https://www.linkedin.com/in/yevhenii-pinchuk-08b3283ba)
